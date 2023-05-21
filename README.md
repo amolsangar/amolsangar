@@ -3,14 +3,11 @@
 <!-- https://simpleicons.org/ -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
-<div style="padding:15px; background-color: #4D4861">
-
 <div id="header">
     <h2 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h2>
     <h3 align="center">🇦​ ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ 💻 ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​ ​🇫​​🇷​​🇴​​🇲​ ​🇮​​🇳​​🇩​​🇮​​🇦​ (🇮🇳)</h3>
 </div>
 
----
 
 <div id="badges" align="center" style="margin-top:15px;">
   <a href="https://www.linkedin.com/in/amol-sangar">
@@ -24,11 +21,9 @@
   </a>
 </div>
 
----
 
 <img src="assets/header_1.png" style="margin-top:10px;"/>
 
----
 
 ## ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
@@ -39,7 +34,6 @@
 - ⚡ Interested in open source techologies and contributing to it
 - ❤️ Love listening to music 🎵, playing basketball 🏀 and valorant 🎮
 
----
 
 ## 🛠️ **ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
 
@@ -146,8 +140,6 @@
 ---
 
 <p align="center" style="margin-top:15px;"> <img src="https://komarev.com/ghpvc/?username=amolsangar&label=Profile%20views&color=0e75b6&style=flat-square" alt="amolsangar" /> </p>
-
-</div>
 
 <!-- <hr style="align-items: stretch;  margin: 1em 0;  height: 0.02em;   line-height: 1em;   color: white;   background: black; background: linear-gradient(to right, white, black); " /> -->
 
