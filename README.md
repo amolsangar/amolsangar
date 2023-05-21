@@ -3,7 +3,7 @@
 <!-- https://simpleicons.org/ -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
-<div style="padding:15px; background-color: #070600">
+<div style="padding:15px; background-color: #4D4861">
 
 <div id="header">
     <h2 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h2>
@@ -35,7 +35,6 @@
 - 🌆 Born and brought up in Pune, India | Currently living in Indiana, US
 - 🧐 Interested in distributed systems and cloud computing ☁️
 - 💼 Currently working as a Software Engineer at Gartner
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 - 🏛️ Graduated with a MS in Computer Science from Indiana University Bloomington 
 - ⚡ Interested in open source techologies and contributing to it
 - ❤️ Love listening to music 🎵, playing basketball 🏀 and valorant 🎮
@@ -43,6 +42,8 @@
 ---
 
 ## 🛠️ **ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
+
+<img style="margin-top:50px; margin-right:50px;" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 
 
 <div id="badges" style="margin-bottom:15px; margin-top:15px;">
