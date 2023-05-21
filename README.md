@@ -4,7 +4,6 @@
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
 <div id="header">
-    
     <h1 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h1>
     <h3 align="center">🇦​ ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ 💻 ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​ ​🇫​​🇷​​🇴​​🇲​ ​🇮​​🇳​​🇩​​🇮​​🇦​ (🇮🇳)</h3>
 </div>
@@ -24,7 +23,7 @@
 
 &nbsp;
 
-<img src="assets/header_1.png"/
+<img src="assets/header_1.png"/>
 
 # ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
