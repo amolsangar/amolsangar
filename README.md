@@ -4,16 +4,16 @@
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
 <div id="header">
-    <h2 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h2>
+    <h1 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h1>
     <h3 align="center">🇦​ ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ 💻 ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​ ​🇫​​🇷​​🇴​​🇲​ ​🇮​​🇳​​🇩​​🇮​​🇦​ (🇮🇳)</h3>
 </div>
 
 
-<div id="badges" align="center" style="margin-top:15px;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amol-sangar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="mailto:amolsangar.c@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/amolsangar">
@@ -21,9 +21,9 @@
   </a>
 </div>
 
-<div id="badges" style="margin-top:10px;">
-  <img src="assets/header_1.png"/>
-</div>
+&nbsp;
+
+<img src="assets/header_1.png"/>
 
 ## ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
@@ -37,8 +37,7 @@
 
 ## 🛠️ **ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
 
-<img style="margin-top:50px; margin-right:50px;" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-
+<img style="margin-top:50px; margin-right:50px;" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 
 <div id="badges" style="margin-bottom:15px; margin-top:15px;">
 
