@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/amolsangar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-1A2421?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
-
-<img src="assets/header_1.png" style="margin-top:10px;"/>
-
+<div id="badges" style="margin-top:10px;">
+  <img src="assets/header_1.png"/>
+</div>
 
 ## ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
