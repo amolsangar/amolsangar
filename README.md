@@ -25,7 +25,7 @@
 
 <img src="assets/header_1.png"/>
 
-## ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
+# ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
 - 🌆 Born and brought up in Pune, India | Currently living in Indiana, US
 - 🧐 Interested in distributed systems and cloud computing ☁️
@@ -35,7 +35,7 @@
 - ❤️ Love listening to music 🎵, playing basketball 🏀 and valorant 🎮
 
 
-## 🛠️ **ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
+# 🛠️ **ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
 
 <img style="margin-top:50px; margin-right:50px;" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 
