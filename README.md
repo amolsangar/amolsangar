@@ -10,13 +10,13 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amol-sangar">
+  <a href="https://www.linkedin.com/in/amol-sangar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:amolsangar.c@gmail.com">
+  <a href="mailto:amolsangar.c@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/amolsangar">
+  <a href="https://github.com/amolsangar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1A2421?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
