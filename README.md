@@ -4,26 +4,27 @@
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
 <div id="header">
+    
     <h1 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h1>
     <h3 align="center">🇦​ ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ 💻 ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​ ​🇫​​🇷​​🇴​​🇲​ ​🇮​​🇳​​🇩​​🇮​​🇦​ (🇮🇳)</h3>
 </div>
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amol-sangar" target="_blank">
+  <a href="https://www.linkedin.com/in/amol-sangar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:amolsangar.c@gmail.com" target="_blank">
+  <a href="mailto:amolsangar.c@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/amolsangar" target="_blank">
+  <a href="https://github.com/amolsangar">
     <img src="https://img.shields.io/badge/GitHub-1A2421?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
 &nbsp;
 
-<img src="assets/header_1.png"/>
+<img src="assets/header_1.png"/
 
 # ⌨️ **ᴀʙᴏᴜᴛ ᴍᴇ**
 
