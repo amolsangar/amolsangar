@@ -3,13 +3,7 @@
 <!-- https://simpleicons.org/ -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
-<style>
-/* body {background-color: #4D4861;} */
-/* body {background-color: #48435C;} */
-body {background-color: #070600;}
-/* body {background-color: #04080F;} */
-/* p    {color: white;} */
-</style>
+<div style="padding:15px; background-color: #070600">
 
 <div id="header">
     <h2 align="center">नमस्ते (​🇳​​🇦​​🇲​​🇦​​🇸​​🇹​​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​​🇲​​🇴​​🇱​ ​🇸​​🇦​​🇳​​🇬​​🇦​​🇷​ </h2>
@@ -152,7 +146,7 @@ body {background-color: #070600;}
 
 <p align="center" style="margin-top:15px;"> <img src="https://komarev.com/ghpvc/?username=amolsangar&label=Profile%20views&color=0e75b6&style=flat-square" alt="amolsangar" /> </p>
 
----
+</div>
 
 <!-- <hr style="align-items: stretch;  margin: 1em 0;  height: 0.02em;   line-height: 1em;   color: white;   background: black; background: linear-gradient(to right, white, black); " /> -->
 
