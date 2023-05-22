@@ -4,8 +4,8 @@
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
 
 <div id="header">
-    <h1 align="center"> नमस्ते (​🇳​🇦​🇲​🇦​🇸​🇹​🇪​)🙏🏻, ​🇮​'🇲​ ​🇦​🇲​🇴​🇱​ ​🇸​🇦​🇳​🇬​🇦​🇷​ </h1>
-    <h3 align="center"> ​🇦​ ​🇵​🇦​🇸​🇸​🇮​🇴​🇳​🇦​🇹​🇪​ 💻 ​🇪​🇳​🇬​🇮​🇳​🇪​🇪​🇷​ ​🇫​🇷​🇴​🇲​ ​🇮​🇳​🇩​🇮​🇦​ 🇮🇳 </h3>
+    <h1 align="center"> नमस्ते (NAMASTE)🙏🏻, I'M AMOL SANGAR </h1>
+    <h3 align="center"> A PASSIONATE 💻 ENGINEER FROM INDIA 🇮🇳 </h3>
 </div>
 
 
